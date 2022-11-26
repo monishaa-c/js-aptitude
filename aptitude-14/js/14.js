@@ -1,4 +1,4 @@
-var value = parseInt(prompt("Enter a price of 20 dozen toy: "));
+var value = parseInt(prompt("Enter a price of  dozen toy: "));
 var cp = value/12; // cp of one toy
 var profit, sp, pp;
 var sp = parseInt(prompt("Enter a SP of one toy :"));
